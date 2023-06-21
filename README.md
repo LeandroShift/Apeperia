@@ -16,10 +16,11 @@
 * Códigos semânticos que ajudam na acessibilidade e SEO.
 * Adaptação de diferentes layouts.
 * Aprimorar conhecimentos de responsividade.
+ 
 
-  
+https://leandroshift.github.io/Apeperia/#  
 
 
-
+Link do curso
    https://cursos.alura.com.br/course/mobile-responsivos-first-layouts
 
